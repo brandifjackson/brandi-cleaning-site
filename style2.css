@@ -11,7 +11,7 @@ line-height:1.8em;
 
 @font-face {
 font-family: Tahu;
-src: url(./fonts/tahu.ttf);
+src: url(./Content/fonts/tahu.ttf);
 }
 
 .validation-summary-errors {
